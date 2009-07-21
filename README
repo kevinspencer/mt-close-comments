@@ -1,6 +1,7 @@
 mt-close-comments
 
-Closes Movable Type blog comments
+Closes Movable Type blog comments.  By default will go back and close any
+entry at least 20 days old.
 
 USAGE
 
